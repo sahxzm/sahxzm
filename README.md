@@ -10,6 +10,9 @@
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
+<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer" style="margin-right: 2px; text-decoration: none;">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right: 2px; text-decoration: none;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </a>
@@ -34,6 +37,9 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 2px; text-decoration: none;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
 </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 2px; text-decoration: none;">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin-right: 2px; text-decoration: none;">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
 </a>
@@ -44,5 +50,5 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dsahxzm%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Ddark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahxzm&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
