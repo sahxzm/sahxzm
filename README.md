@@ -5,7 +5,7 @@
 📍 Based in Delhi-NCR<br/>
 📡 Flexible for on-site or remote opportunities<br/>
 <br/>
-🌐 <a href="https://www.linkedin.com/in/sahil-singh-ba8b711b5/"><strong>Check Out My Portfolio</strong></a>
+🌐 <a href="https://sahilsingh.tech/"><strong>Check Out My Portfolio</strong></a>
 </p>
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
